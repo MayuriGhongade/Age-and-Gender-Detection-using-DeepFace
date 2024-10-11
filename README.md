@@ -34,10 +34,6 @@ To get started, clone the repository:
 
 git clone https://github.com/MayuriGhongade/Age-and-Gender-Detection-using-DeepFace.git
 
-# Age and Gender Detection Project
-
-## Installation
-
 ### Install Required Packages
 Run the following command to install the necessary dependencies:
 pip install -r requirements.txt

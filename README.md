@@ -34,3 +34,18 @@ To get started, clone the repository:
 
 ```bash
 git clone https://github.com/MayuriGhongade/Age-and-Gender-Detection-using-DeepFace.git
+
+# Age and Gender Detection Project
+
+## Installation
+
+### Install Required Packages
+Run the following command to install the necessary dependencies:
+```bash
+pip install -r requirements.txt
+
+## Acknowledgments
+- [DeepFace Library](https://github.com/serengil/deepface)
+- [OpenCV](https://opencv.org/)
+- [Haar Cascade](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
+

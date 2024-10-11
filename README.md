@@ -32,7 +32,6 @@ This project demonstrates how to use the **DeepFace** library along with **OpenC
 
 To get started, clone the repository:
 
-```bash
 git clone https://github.com/MayuriGhongade/Age-and-Gender-Detection-using-DeepFace.git
 
 # Age and Gender Detection Project
@@ -41,7 +40,6 @@ git clone https://github.com/MayuriGhongade/Age-and-Gender-Detection-using-DeepF
 
 ### Install Required Packages
 Run the following command to install the necessary dependencies:
-```bash
 pip install -r requirements.txt
 
 ## Acknowledgments
